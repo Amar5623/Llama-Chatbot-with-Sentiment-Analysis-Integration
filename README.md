@@ -1,6 +1,6 @@
 # 🌸 Mental Health Assistant Chatbot 🌸
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/171B1CSsZ_ynUEr8Eif1G5tIggKwyCNCo?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ESIK_qpJDtZXfeGymL-1jtZc-AJSU0fa?usp=sharing)
 
 ## Project Overview
 This project is focused on building a **Mental Health Assistant Chatbot** to provide emotional support using **sentiment analysis** and **natural language processing**. By combining **DistilBERT** for emotion detection and **Llama-2** for generating personalized responses, the chatbot aims to foster comforting, interactive conversations. The chatbot is designed with simplicity and ease of use in mind, making it a user-friendly tool for mental wellness support.
